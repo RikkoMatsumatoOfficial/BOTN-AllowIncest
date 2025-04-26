@@ -13,6 +13,7 @@ def Main():
     if(GetPathOfBOTN_Boolean() == True):
         with open("{}".format(GetPathofBOTN() + "\\imma.degenerate"), "w") as write_file:
             write_file.write(str(""))
+            print("You Can Now Have Incest!!! This Script created by RikkoMatsumatoOfficial!!!")
             os._exit(443)
     else:
         print("Please Download BOTN(Breeders of the Nephelym)!!!")
