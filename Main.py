@@ -10,7 +10,7 @@ def GetPathofBOTN():
 
 def Main():
     print(f"You're BOTN(Breeders of the Nephelym) Path is {GetPathofBOTN()}")
-    if(GetPathOfBOTN_Boolean() == True):
+    if(GetPathOfBOTN_Boolean() is True):
         with open("{}".format(GetPathofBOTN() + "\\imma.degenerate"), "w") as write_file:
             write_file.write(str(""))
             print("You Can Now Have Incest!!! This Script created by RikkoMatsumatoOfficial!!!")
