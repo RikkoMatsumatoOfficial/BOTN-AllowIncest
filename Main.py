@@ -16,7 +16,7 @@ def Main():
             print("You Can Now Have Incest!!! This Script created by RikkoMatsumatoOfficial!!!")
             os._exit(443)
     else:
-        print("Please Download BOTN(Breeders of the Nephelym)!!!")
+        print("Please Download BOTN(Breeders of the Nephelym) or please check if folder is DETECTED!!!")
         os._exit(43321)
 
 if __name__ == "__main__":
